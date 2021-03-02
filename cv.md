@@ -21,3 +21,22 @@
         return pointer;
     }
 ```
+6. Work experience:
+    ____
+    ### Yandex Praktikum
+    #### Student, senior student
+
+    Studied web development technologies, interaction with the server, working with Git and the basics of Backend development with node.js + express.js, HTML5 / CSS3 & BEM, adaptive and cross-browser layout, javascript, webpack.
+
+    NewsExplorer ([Frontend](https://github.com/leka-ren/frontend-NewsExplorer) & [Backend](https://github.com/leka-ren/backend-NewsExplorer)) - thesis, developing a responsive web application. Backend uses mongoDB database, implemented in node.js + express.js, REST. On the frontend - layout according to the figma layout, HTML5 / CSS3 & BEM, ES6 are used.
+
+    [#РАКЛЕЧИТСЯ(RAKLECHITSYA)](https://github.com/Raklechitca-Team/raklechitca) - development of an adaptive web application for the Konstantin Khabensky charitable foundation, layout based on Figma layout, working with HTTP requests via axios, VueJS, Vuex, Nuxtjs.
+    ____
+    ### Bambook
+    #### Web-developer
+
+    Software development, active participation in development, solo projects, work on the Agile system. Product development on ReactJS + Redux.
+    ____
+
+7. Basic education in web programming in Yandex.Praktikum, and other.
+8. Based on the results of several tests on the Internet, the level of English is from A1 to A2(Soon I plan to sign up for courses);
